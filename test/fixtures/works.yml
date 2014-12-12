@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  start_time: 2014-12-12 23:50:54
+  end_time: 2014-12-12 23:50:54
+  type_id: 1
+  content: MyText
+
+two:
+  start_time: 2014-12-12 23:50:54
+  end_time: 2014-12-12 23:50:54
+  type_id: 1
+  content: MyText
